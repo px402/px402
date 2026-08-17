@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+data/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+NOTES-INTERNAL.md
+.claude/settings.local.json
